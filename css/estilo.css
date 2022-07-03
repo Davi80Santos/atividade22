@@ -1,0 +1,36 @@
+body{
+    background-image: url("1.jpg");
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: gray;
+    padding-top: 10px;
+        }
+    
+   
+    h1{
+        color: rgb(254, 233, 7);
+        font-family: "times new roman", "Times New Roman",;
+        font-size: 60px;
+        text-align: center;
+        font-weight: bolder;
+      }
+    
+      label {
+        color: rgb(209, 236, 8); 
+        font-family: "helvetica";
+        font-weight: bold;
+        font-size: 25px;
+        margin: center;
+                       
+        }
+    
+    h2 {
+        color: rgb(142, 253, 62);
+        font-family: "arial";
+        font-size: 30px;
+    }
+    
+      button {
+        position: center;
+      }
